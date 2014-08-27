@@ -1,6 +1,3 @@
-Hola, metí esta línea mucho después de haber escrito la primera.
 Este es un primer ejemplo de un texto a cambiar.
-Agregando una tercera linea.
-Agregando más líneas.
-AGREGO LINEA EN MAYUSCULAS
+asdfuaisfhiahsfliasfu
 
